@@ -31,18 +31,7 @@ Coming soon - Will deploy to Streamlit Cloud
 - Responsive design
 
 ## 📁 Project Structure
-movie-recommender-system/
-├── app.py # Streamlit application
-├── model/
-│ ├── movie_list.pkl # Movie dataset (4800+ movies)
-│ └── similarity.pkl # Cosine similarity matrix
-├── data/
-│ └── tmdb_5000_movies.csv # TMDB dataset
-├── notebooks/
-│ └── EDA.ipynb # Data exploration notebook
-├── requirements.txt # Dependencies
-├── .gitignore
-└── README.md
+
 
 text
 
