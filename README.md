@@ -46,8 +46,6 @@ movie-recommender-system/
 └── README.md
 ```
 
-text
-
 ## 🛠️ Installation
 
 ### Prerequisites
@@ -76,27 +74,27 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-🔮 Future Improvements
-User rating-based recommendations
+## 📸 Screenshots
+[Screenshots will be added soon]
 
-Filter by genre
+## 🔮 Future Improvements
+- [ ] User rating-based recommendations
+- [ ] Filter by genre
+- [ ] Watchlist feature
+- [ ] More detailed movie info
+- [ ] User authentication
 
-Watchlist feature
-
-More detailed movie info
-
-User authentication
-
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first.
 
-📝 License
+## 📝 License
 MIT
 
-📧 Contact
-Samir Dahal
-📧 dahalsamir111222@gmail.com
-🔗 LinkedIn
-🐙 GitHub
+## 📧 Contact
+**Samir Dahal**  
+📧 dahalsamir111222@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/samir-dahal-60a24a3a0)  
+🐙 [GitHub](https://github.com/dahalsamir222111)
 
+---
 ⭐️ If you like this project, please give it a star!
